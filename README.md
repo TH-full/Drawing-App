@@ -2,8 +2,8 @@
 Drawing App made with VanillaJS
 
 ## Function
-Drawing  
-Chosing Color  
-Change Range  
-Color fill  
-Save Image
+🌠Drawing  
+🌠Chosing Color  
+🌠Change Range  
+🌠Color fill  
+🌠Save Image
