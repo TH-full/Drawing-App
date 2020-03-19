@@ -1,2 +1,2 @@
-# Drawing-Board
-Drawing Board made with VanillaJS
+# Drawing-App
+Drawing App made with VanillaJS
